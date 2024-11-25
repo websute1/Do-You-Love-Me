@@ -2,7 +2,7 @@
 
 //click yes btn
 function clickYesButton() {
-    alert('I love you too <3');
+    alert('I SEE! EVEN YOU WERE MANIPULATED BY AIZEN TOO <⚡');
 }
 
 //move button on hover
